@@ -1,3 +1,4 @@
-Se aplica cada cambio particular en esta seccion.
+3.6-Basic Merge
 
 1.Cambio inicial.
+2.Cambio.
